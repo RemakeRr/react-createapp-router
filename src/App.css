@@ -1,0 +1,18 @@
+header {
+  width: 100%;
+  height: 150px;
+  background-color: #2F6DF5  ;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  font-size: 20px;
+}
+header a{
+  color: #fff;
+}
+.nav {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
